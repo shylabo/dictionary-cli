@@ -1,4 +1,4 @@
-module github.com/shylabo/golang-cobra-poc
+module github.com/shylabo/dictionary-cli
 
 go 1.17
 

@@ -21,7 +21,7 @@ import (
 	"os"
 
 	"github.com/manifoldco/promptui"
-	"github.com/shylabo/golang-cobra-poc/data"
+	"github.com/shylabo/dictionary-cli/data"
 	"github.com/spf13/cobra"
 )
 

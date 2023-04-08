@@ -16,7 +16,7 @@ limitations under the License.
 package cmd
 
 import (
-	"github.com/shylabo/golang-cobra-poc/data"
+	"github.com/shylabo/dictionary-cli/data"
 	"github.com/spf13/cobra"
 )
 

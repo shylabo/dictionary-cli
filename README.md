@@ -1,4 +1,4 @@
-# golang-cobra-poc
+# dictionary-cli
 
 ## Overview
 
@@ -39,23 +39,23 @@ There already exists both binary file and database thus you can skip step1 and s
 ### 1.Build this app first.
 
 ```
-$ go build .
+$ make build
 ```
 
 ### 2.Create a database(initialize).
 
 ```
-$ ./golang-cobra-poc init
+$ make init
 ```
 
 ### 3.Add a note.
 
 ```
-$ ./golang-cobra-poc note new
+$ make new
 ```
 
 ### 4.Show all the lists you registered.
 
 ```
-$ ./golang-cobra-poc note list
+$ make list
 ```

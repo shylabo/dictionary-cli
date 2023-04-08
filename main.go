@@ -16,8 +16,8 @@ limitations under the License.
 package main
 
 import (
-	"github.com/shylabo/golang-cobra-poc/cmd"
-	"github.com/shylabo/golang-cobra-poc/data"
+	"github.com/shylabo/dictionary-cli/cmd"
+	"github.com/shylabo/dictionary-cli/data"
 )
 
 func main() {
