@@ -2,6 +2,8 @@
 
 ## Overview
 
+![dictionary-cli](https://user-images.githubusercontent.com/41677855/230699656-739dad1c-8b5a-4e54-b028-d4739e2490eb.png)
+
 This application is for playing with cobra and promptui.
 You can add some notes like a dictionary by answering to questions in command line.
 
